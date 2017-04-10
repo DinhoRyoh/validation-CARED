@@ -14,6 +14,14 @@ Par manque de temps je n'ai pas pu traiter les "likes"
 ###les utilisateurs
 
 admin : bob@hotmail.fr
-non admin : anto@hotmail.fr
+non admin : 
+-anto@hotmail.fr
+-dinh@hotmail.fr
+-dylan@hotmail.fr
+-denis@hotmail.fr
+-loick@hotmail.fr
+-alex@hotmail.fr
 
 mdp : 123456
+
+le dump est à la base du projet.
