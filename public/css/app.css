@@ -1,0 +1,28 @@
+body{
+  background: grey;
+}
+
+.item{
+  background: white !important;
+}
+
+.active{
+  background: red !important;
+  color: white !important;
+  border: none !important;
+}
+table{
+  width: 100%;
+}
+ th, tr, td{
+  padding-left: 10px;
+  border: 1px solid grey;
+}
+th{
+  background: lightblue;
+  color: grey;
+  padding: 10px;
+}
+tr:nth-child(odd){
+  background: #f0faff;
+}
